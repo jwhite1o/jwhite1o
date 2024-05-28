@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Tyrone.</h2>
+<h2> Hey there! I'm Jo.</h2>
 
 <h3> 👨🏻‍💻  About Me </h3>
 
